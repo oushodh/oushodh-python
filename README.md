@@ -4,6 +4,7 @@ The official Python client for the Oushodh API.
 
 [![CI](https://github.com/oushodh/oushodh-python/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/oushodh/oushodh-python/actions/workflows/ci.yml)
 [![Licence: MIT](https://img.shields.io/github/license/oushodh/oushodh-python)](LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/oushodh)](https://pypi.org/project/oushodh/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776ab)](https://www.python.org/)
 
 ## What Oushodh is
@@ -16,15 +17,13 @@ client, `Oushodh`, and an async client, `AsyncOushodh`, and it is fully typed.
 
 ## Install
 
-Install release 0.1.0 from GitHub:
+Install it from PyPI:
 
 ```sh
-pip install "git+https://github.com/oushodh/oushodh-python.git@v0.1.0"
+pip install oushodh
 # or
-uv add "git+https://github.com/oushodh/oushodh-python.git@v0.1.0"
+uv add oushodh
 ```
-
-Install from PyPI is coming soon.
 
 ## Quickstart
 
