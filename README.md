@@ -16,12 +16,12 @@ client, `Oushodh`, and an async client, `AsyncOushodh`, and it is fully typed.
 
 ## Install
 
-Install it from GitHub:
+Install release 0.1.0 from GitHub:
 
 ```sh
-pip install "git+https://github.com/oushodh/oushodh-python.git"
+pip install "git+https://github.com/oushodh/oushodh-python.git@v0.1.0"
 # or
-uv add "git+https://github.com/oushodh/oushodh-python.git"
+uv add "git+https://github.com/oushodh/oushodh-python.git@v0.1.0"
 ```
 
 Install from PyPI is coming soon.

@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 (12 Nov, 2026)
 
 - First version of the Python SDK for the Oushodh API `/v1`.
 - `Oushodh` and `AsyncOushodh` clients: `meta()`, `list_medicines()`, `medicines()` (pages to the end), `search()`,
